@@ -1,4 +1,4 @@
-create database mygame;
+create database mygame_1;
 
 use mygame;
 
